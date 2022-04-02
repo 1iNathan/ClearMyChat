@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "ClearMyChat",
+  "mainClass": "net.labymod.addons.ClearMyChat",
+  "description": "You can Clear your own chat by typing (/ClearMyChat).",
+  "version": 1,
+  "author": "1iNathan",
+  "category": 2,
+  "icon": "https://i.imgur.com/bpJEqdc.png"
+}
